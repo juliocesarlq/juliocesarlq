@@ -9,7 +9,7 @@ I have substantial experience with Python, JavaScript, C++, Swift, and Java codi
 - ✉️ send me an <a href="mailto:juliocesarlopez@me.com?subject=👋🏼 Hey Julio, I checked out your github&body=I thought we could possibly work together on.....">email</a>
 - 🌎 visit my personal <a href="https://juliocesarlq.github.io"> site</a> 
 - 💼 lets chat on <a href="https://www.linkedin.com/in/julio-ces-lopez">LinkedIn</a> 
-- checkout my <a href="https://juliocesarlq.github.io/resume-software.pdf">resume</a> 
+- 📃 checkout my <a href="https://juliocesarlq.github.io/resume-software.pdf">resume</a> 
 
 
 <!--
