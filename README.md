@@ -3,7 +3,7 @@ a software and UI/UX developer with 2+ years of experience, a B.S. in Computer S
 
 I've built software tools together with small businesses and big government organizations. Many of the initiatives on which I have worked, from conception to deployment, have involved the development of new ideas. I've created a variety of software tools, including an 👁 eye-controlled e-book reader, a native 📍 location-based iOS iPhone app, and web applications for organizations like 🚄 (BART) Bay Area Rapid Transit in San Francisco.
 
-I have substantial experience with Python, JavaScript, C++, Swift, and Java coding languages. In addition, many of the tools and libraries that are used with them, such as Flask and React.
+I have substantial experience with Python, JavaScript, C++, Swift, and Java coding languages. In addition, many of the tools and libraries that are used with them, such as Flask and React. Please take a look at some of my projects on github!
 
 ## 📫 How to reach me:
 - ✉️ send me an <a href="mailto:juliocesarlopez@me.com?subject=👋🏼 Hey Julio, I checked out your site&body=I thought we could possibly work together on.....">email</a>
