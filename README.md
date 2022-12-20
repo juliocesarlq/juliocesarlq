@@ -1,5 +1,5 @@
 # 👋🏼 Hello! I'm Julio Cesar,
-a software and UI/UX developer with 2+ years of experience, a B.S. in Computer Science & Engineering from the University of California, Merced, and an additional 4+ years of CAD and engineering experience.
+a 👨🏽‍💻 software and UI/UX developer with 2+ years of experience, a 👨🏽‍🎓 B.S. in Computer Science & Engineering from the University of California, Merced, and an additional 4+ years of 👷🏼‍♂️ CAD and engineering experience.
 
 I've built software tools together with small businesses and big government organizations. Many of the initiatives on which I have worked, from conception to deployment, have involved the development of new ideas. I've created a variety of software tools, including an 👁 eye-controlled e-book reader, a native 📍 location-based iOS iPhone app, and web applications for organizations like 🚄 (BART) Bay Area Rapid Transit in San Francisco.
 
