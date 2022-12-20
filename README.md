@@ -1,13 +1,14 @@
-### Hi there 👋
+# 👋🏼 Hello! I'm Julio Cesar,
+a software and UI/UX developer with 2+ years of experience, a B.S. in Computer Science & Engineering from the University of California, Merced, and an additional 3+ years of CAD and engineering experience.
 
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+I've built software tools together with small businesses and big government organizations. Many of the initiatives on which I have worked, from conception to deployment, have involved the development of new ideas. I've created a variety of software tools, including an eye-controlled e-book reader, a native location-based iOS iPhone app, and web applications for organizations like (BART) Bay Area Rapid Transit in San Francisco.
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I have substantial experience with Python, JavaScript, C++, Swift, and Java coding languages. In addition, many of the tools and libraries that are used with them, such as Flask and React.
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## 📫 How to reach me:
+- ✉️ juliocesarlopez@me.com
+- 🌎 https://juliocesarlq.github.io
+- 💼 <a href="https://www.twitch.tv/blacktechdiva">LinkedIn</a> 
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
