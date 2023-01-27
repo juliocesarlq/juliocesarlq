@@ -5,6 +5,7 @@ I've built software tools together with small businesses and big government orga
 
 I have substantial experience with Python, JavaScript, C++, Swift, and Java coding languages. In addition, many of the tools and libraries that are used with them, such as Flask and React. Please take a look at some of my projects on github! ✌🏼
 
+<!--
 ## 📫 How to reach me:
 - ✉️ send me an <a href="mailto:juliocesarlopez@me.com?subject=👋🏼 Hey Julio, I checked out your github&body=I thought we could possibly work together on.....">email</a>
 - 🌎 visit my personal <a href="https://juliocesarlq.github.io"> site</a> 
@@ -12,7 +13,7 @@ I have substantial experience with Python, JavaScript, C++, Swift, and Java codi
 - 📃 checkout my <a href="https://juliocesarlq.github.io/resume-software.pdf">resume</a> 
 
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
