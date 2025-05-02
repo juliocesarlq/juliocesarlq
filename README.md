@@ -1,7 +1,9 @@
 # 👋🏼 Hello! I'm Julio Cesar,
-a 👨🏽‍💻 software and embedded engineer with three years experience, a 👨🏽‍🎓 B.S. in Computer Science & Engineering from the University of California, Merced and an additional 4+ years of 👷🏼‍♂️ design engineering experience.
+a 👨🏽‍💻 software and embedded engineer with three years of experience and an additional four years of 👷🏼‍♂️ design engineering experience.
 
-I've built software tools together with small businesses and large government organizations. Many of the initiatives on which I have worked, from conception to deployment, have involved the development of new ideas. I've created a variety of software tools, including a 🧊 cyrogenic register and dispatch system, 👁 a eye-controlled e-book reader, a native 📍 location-based iOS iPhone app, and web applications for organizations like 🚄 (BART) Bay Area Rapid Transit in San Francisco.
+I've built software tools together with small businesses and large government organizations alike. Working on many initivies from conception to deployment, I've played a pivotal role in the development of new ideas. Including a 🧊 cyrogenic register and dispatch system, 👁 a eye-controlled e-book reader, a native 📍 location-based iOS iPhone app, and web applications for organizations like 🚄 (BART) Bay Area Rapid Transit in San Francisco.
+
+Currently, I’m an engineer at 🚃 Los Angeles Metro’s Rail Operations Control Center (ROCC) contributing to the most extensive expansions of passenger rail in the country.
 
 I have substantial experience with C++, Python, JavaScript, and Swift coding languages. In addition to many of the tools and libraries that are used with them, such as Flask and React. Please take a look at some of my projects on github! ✌🏼
 
